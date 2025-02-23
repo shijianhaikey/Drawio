@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="445" dy="580" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="934" dy="1218" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -250,6 +250,15 @@
         <mxCell id="OzR1hOOu8rSwo2hZIF2x-8" style="vsdxID=328;rotation=-311;fillColor=#003232;gradientColor=none;shape=stencil(vVHLDsIgEPwajiQU4hfU+h8bu7RELM2CFv9eyMZYjCcP3mZ2Zh/ZEaaPM6wotIqJwgU3N6ZZmKPQ2i0zkksFCTMI09tAOFG4LSPzFaqzomu41wmZ+1Tt0OrB7MD0xE6gc5EoN5qi1vsa1Kmvo1SWkF2UFBIkF5ZmqweaUJY10nqYGiluiOuu3P182P/OKuD9Zuu855T2+mcspcSRmuEJ);strokeColor=#c8c8c8;shadow=1;points=[[0.5,0,0],[0.5,0.5,0],[0.5,0.5,0],[0.5,0.5,0],[1,0.5,0],[0.15,0.85,0],[0.85,0.85,0],[0.85,0.15,0],[0.15,0.15,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" parent="OzR1hOOu8rSwo2hZIF2x-5" vertex="1">
           <mxGeometry x="2" y="4" width="2.7510889230654034" height="2.6441927117084973" as="geometry" />
         </mxCell>
+        <mxCell id="VqYkrCpiU60RS0AvMM3d-13" value="\(P_{i}-\frac{R}{sin(\theta_a/2)}\frac{q_{i-1}-q_{i}}{\left \| q_{i-1}-q_{i} \right \|&amp;nbsp;} \)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;fontColor=light-dark(#ed0c0c, #ededed);" vertex="1" parent="rns7nsYxoMP6GC0joOWP-0">
+          <mxGeometry x="50" y="93" width="115" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VqYkrCpiU60RS0AvMM3d-17" value="" style="endArrow=open;html=1;rounded=0;endFill=0;fillColor=#e51400;strokeColor=light-dark(#0d0d0d, #ffacac);" edge="1" parent="rns7nsYxoMP6GC0joOWP-0">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="105" y="92.9953390593273" as="sourcePoint" />
+            <mxPoint x="106" y="74.9953390593273" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="rns7nsYxoMP6GC0joOWP-46" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 1;strokeWidth=0.5;rounded=0;fillColor=#008a00;strokeColor=#005700;" parent="rns7nsYxoMP6GC0joOWP-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="151" y="30" as="sourcePoint" />
@@ -336,6 +345,9 @@
         </mxCell>
         <mxCell id="VqYkrCpiU60RS0AvMM3d-10" value="\(P_{i+1}\)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="766" y="688" width="22" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="VqYkrCpiU60RS0AvMM3d-12" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="670" y="649" width="4" height="4" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
