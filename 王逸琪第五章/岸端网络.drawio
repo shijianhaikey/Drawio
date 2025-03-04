@@ -99,7 +99,7 @@
           <mxGeometry x="324" y="336.5" width="50" height="61" as="geometry" />
         </mxCell>
         <mxCell id="--u6TSzxBVNUIhOcAvG3-37" value="&lt;div&gt;图像信息&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="405.25" y="260" width="50.75" height="20" as="geometry" />
+          <mxGeometry x="405.25" y="370" width="50.75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wUe0nxQNnTmPNX1ta7tq-2" value="岸端上位机平台" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="150" y="60" width="120" height="42" as="geometry" />
