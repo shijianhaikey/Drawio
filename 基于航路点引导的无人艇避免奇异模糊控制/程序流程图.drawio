@@ -1,9 +1,338 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="26.0.16">
   <diagram name="第 1 页" id="OGvoX-XlF6Nbj9iC9CoG">
-    <mxGraphModel>
+    <mxGraphModel dx="2445" dy="1363" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Iu_2NHSN5ZIw0ac4lPD1-2" target="Iu_2NHSN5ZIw0ac4lPD1-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-2" value="开始执行远程控制数据通信子线程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="581.5" y="231" width="105" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Iu_2NHSN5ZIw0ac4lPD1-4" target="Iu_2NHSN5ZIw0ac4lPD1-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="634" y="417" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-4" value="执行线程内全局参数初始化函数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="574" y="315" width="120" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Iu_2NHSN5ZIw0ac4lPD1-6" target="Iu_2NHSN5ZIw0ac4lPD1-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-6" value="执行界面初始化函数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="574" y="381" width="120" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Iu_2NHSN5ZIw0ac4lPD1-8" target="Iu_2NHSN5ZIw0ac4lPD1-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-8" value="开始执行远程图像通信线程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="815" y="231" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Iu_2NHSN5ZIw0ac4lPD1-10" target="Iu_2NHSN5ZIw0ac4lPD1-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-10" value="开始执行远程遥控线程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1045" y="230" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Iu_2NHSN5ZIw0ac4lPD1-12" target="Iu_2NHSN5ZIw0ac4lPD1-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-12" value="执行线程内全局参数初始化函数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="313" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Iu_2NHSN5ZIw0ac4lPD1-14" target="Iu_2NHSN5ZIw0ac4lPD1-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-14" value="执行界面初始化函数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="376" width="120" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-15" value="开始执行控制算法线程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="230" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-16" value="开始运行SRUSV控制主线程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="230" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-17" value="开始执行远程控制数据通信线程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="423" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-18" value="是否执行控制算法？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="323" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Iu_2NHSN5ZIw0ac4lPD1-18" target="Iu_2NHSN5ZIw0ac4lPD1-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="625" y="753" as="sourcePoint" />
+            <mxPoint x="675" y="703" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-20" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=elbowEdgeStyle;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Iu_2NHSN5ZIw0ac4lPD1-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="475" y="581" as="sourcePoint" />
+            <mxPoint x="395" y="723" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="475" y="731" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-21" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="646.5" y="643" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-22" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="435" y="333" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Iu_2NHSN5ZIw0ac4lPD1-17" target="Iu_2NHSN5ZIw0ac4lPD1-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="115" y="583" as="sourcePoint" />
+            <mxPoint x="340" y="523" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-24" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Iu_2NHSN5ZIw0ac4lPD1-18" target="Iu_2NHSN5ZIw0ac4lPD1-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="505" y="643" as="sourcePoint" />
+            <mxPoint x="455" y="533" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-25" value="开始执行远程遥控线程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="433" y="522" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Iu_2NHSN5ZIw0ac4lPD1-16" target="Iu_2NHSN5ZIw0ac4lPD1-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="975" y="503" as="sourcePoint" />
+            <mxPoint x="1025" y="453" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Iu_2NHSN5ZIw0ac4lPD1-29" target="Iu_2NHSN5ZIw0ac4lPD1-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-29" value="开始执行控制算法线程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="522" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Iu_2NHSN5ZIw0ac4lPD1-31" target="Iu_2NHSN5ZIw0ac4lPD1-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-31" value="开始执行远程图像通信线程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="613" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-32" value="结束主线程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="703" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Iu_2NHSN5ZIw0ac4lPD1-34" target="Iu_2NHSN5ZIw0ac4lPD1-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-34" value="定时器触发子线程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="574" y="439" width="120" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-35" value="调用Mavlink数据接收程序（接收SRUSV运行及姿态数据）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="574" y="496" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Iu_2NHSN5ZIw0ac4lPD1-37" target="Iu_2NHSN5ZIw0ac4lPD1-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-37" value="调用Mavlink数据发送程序（发送SRUSV控制指令）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="564" y="667" width="141" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Iu_2NHSN5ZIw0ac4lPD1-39" target="Iu_2NHSN5ZIw0ac4lPD1-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-39" value="是否执行控制算法？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="539" y="579" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-40" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Iu_2NHSN5ZIw0ac4lPD1-35" target="Iu_2NHSN5ZIw0ac4lPD1-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="855" y="733" as="sourcePoint" />
+            <mxPoint x="905" y="683" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-41" value="结束子线程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="589" y="735" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-42" value="执行线程内全局参数初始化函数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="321.5" width="120" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-43" value="执行界面初始化函数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="393" width="120" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Iu_2NHSN5ZIw0ac4lPD1-45" target="Iu_2NHSN5ZIw0ac4lPD1-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-45" value="定时器触发子线程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="463" width="120" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Iu_2NHSN5ZIw0ac4lPD1-47" target="Iu_2NHSN5ZIw0ac4lPD1-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-47" value="调用SDK包执行图像读取程序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="532" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-48" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Iu_2NHSN5ZIw0ac4lPD1-43" target="Iu_2NHSN5ZIw0ac4lPD1-45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="715" y="453" as="sourcePoint" />
+            <mxPoint x="860" y="433" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Iu_2NHSN5ZIw0ac4lPD1-50" target="Iu_2NHSN5ZIw0ac4lPD1-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-50" value="是否执结束读取图像？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="765" y="623" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-51" value="结束子线程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="815" y="733" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-52" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=elbowEdgeStyle;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Iu_2NHSN5ZIw0ac4lPD1-39" target="Iu_2NHSN5ZIw0ac4lPD1-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="735" y="610" as="sourcePoint" />
+            <mxPoint x="755" y="743" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="755" y="683" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-53" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=elbowEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Iu_2NHSN5ZIw0ac4lPD1-50" target="Iu_2NHSN5ZIw0ac4lPD1-45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1005" y="653" as="sourcePoint" />
+            <mxPoint x="955" y="797" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="975" y="603" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-54" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="869" y="693" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-55" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="945" y="633" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-56" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="715" y="582" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Iu_2NHSN5ZIw0ac4lPD1-58" target="Iu_2NHSN5ZIw0ac4lPD1-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-58" value="定时器触发子线程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="433" width="120" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Iu_2NHSN5ZIw0ac4lPD1-60" target="Iu_2NHSN5ZIw0ac4lPD1-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-60" value="执行远程接收遥控信息成程序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="483" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Iu_2NHSN5ZIw0ac4lPD1-62" target="Iu_2NHSN5ZIw0ac4lPD1-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-62" value="向电机输出对应的PWM信号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="553" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Iu_2NHSN5ZIw0ac4lPD1-64" target="Iu_2NHSN5ZIw0ac4lPD1-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-64" value="是否结束远程遥控？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="995" y="623" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-65" value="结束子线程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1045" y="728" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-66" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1335" y="699" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-67" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=elbowEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Iu_2NHSN5ZIw0ac4lPD1-64" target="Iu_2NHSN5ZIw0ac4lPD1-58">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1200" y="652" as="sourcePoint" />
+            <mxPoint x="1165" y="551" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1215" y="583" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-68" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1178" y="633" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-69" value="执行线程内全局参数初始化函数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1275" y="313" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-70" value="执行界面初始化函数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1275" y="376" width="120" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-71" value="定时器触发子线程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1275" y="433" width="120" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-72" value="执行轨迹生成算法函数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="482" width="130" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-73" value="执行制导算法函数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1275" y="532" width="120" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-74" value="执行控制算法功能函数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="580" width="130" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-75" value="结束子线程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="733" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-76" value="是否控制算法？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="639" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-77" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Iu_2NHSN5ZIw0ac4lPD1-15" target="Iu_2NHSN5ZIw0ac4lPD1-69">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1525" y="293" as="sourcePoint" />
+            <mxPoint x="1575" y="243" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-78" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Iu_2NHSN5ZIw0ac4lPD1-69" target="Iu_2NHSN5ZIw0ac4lPD1-70">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1455" y="363" as="sourcePoint" />
+            <mxPoint x="1505" y="313" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-79" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Iu_2NHSN5ZIw0ac4lPD1-70" target="Iu_2NHSN5ZIw0ac4lPD1-71">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1525" y="483" as="sourcePoint" />
+            <mxPoint x="1575" y="433" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-80" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Iu_2NHSN5ZIw0ac4lPD1-71" target="Iu_2NHSN5ZIw0ac4lPD1-72">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1485" y="503" as="sourcePoint" />
+            <mxPoint x="1535" y="453" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-81" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Iu_2NHSN5ZIw0ac4lPD1-72" target="Iu_2NHSN5ZIw0ac4lPD1-73">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1555" y="523" as="sourcePoint" />
+            <mxPoint x="1605" y="473" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-82" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Iu_2NHSN5ZIw0ac4lPD1-73" target="Iu_2NHSN5ZIw0ac4lPD1-74">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1465" y="563" as="sourcePoint" />
+            <mxPoint x="1515" y="513" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-83" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Iu_2NHSN5ZIw0ac4lPD1-74" target="Iu_2NHSN5ZIw0ac4lPD1-76">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1405" y="623" as="sourcePoint" />
+            <mxPoint x="1455" y="573" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-84" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Iu_2NHSN5ZIw0ac4lPD1-76" target="Iu_2NHSN5ZIw0ac4lPD1-75">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1425" y="723" as="sourcePoint" />
+            <mxPoint x="1475" y="673" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-85" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=elbowEdgeStyle;" edge="1" parent="1" source="Iu_2NHSN5ZIw0ac4lPD1-76" target="Iu_2NHSN5ZIw0ac4lPD1-71">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1465" y="653" as="sourcePoint" />
+            <mxPoint x="1430" y="503" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1455" y="553" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Iu_2NHSN5ZIw0ac4lPD1-86" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1415" y="646" width="40" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
