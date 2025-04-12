@@ -614,7 +614,7 @@
         <mxCell id="rbftyvLKrvMqdOADE280-508" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;Smooth Navigation Vessel 0#&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="773.75" y="-704.5" width="80" height="34.07" as="geometry" />
         </mxCell>
-        <mxCell id="rbftyvLKrvMqdOADE280-509" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;Virtual Leader Vessel 1-3#&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+        <mxCell id="rbftyvLKrvMqdOADE280-509" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;Virtual Leader Vessel 1-3#&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="709.75" y="-600" width="66.75" height="34.07" as="geometry" />
         </mxCell>
         <mxCell id="rbftyvLKrvMqdOADE280-496" value="" style="endArrow=openThin;html=1;rounded=0;exitX=0.537;exitY=0.041;exitDx=0;exitDy=0;exitPerimeter=0;endFill=0;entryX=0.974;entryY=0.414;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rbftyvLKrvMqdOADE280-494" target="rbftyvLKrvMqdOADE280-512">
