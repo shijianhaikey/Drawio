@@ -316,7 +316,7 @@
         <mxCell id="I-lLeRLzcVt5vBV5bbuP-193" value="" style="group" vertex="1" connectable="0" parent="I-lLeRLzcVt5vBV5bbuP-203">
           <mxGeometry x="52.809999999999945" y="80" width="132.9192457852705" height="105.50924578527065" as="geometry" />
         </mxCell>
-        <mxCell id="I-lLeRLzcVt5vBV5bbuP-194" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=light-dark(#ff2600, #ededed);strokeWidth=4;fillColor=light-dark(#ff6251, #ededed);dashed=1;opacity=80;" vertex="1" parent="I-lLeRLzcVt5vBV5bbuP-193">
+        <mxCell id="I-lLeRLzcVt5vBV5bbuP-194" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=light-dark(#ff2600, #ededed);strokeWidth=4;fillColor=light-dark(#ff6251, #ededed);dashed=1;opacity=70;" vertex="1" parent="I-lLeRLzcVt5vBV5bbuP-193">
           <mxGeometry x="-38.63000000000011" y="-66.03999999999996" width="171.5492457852706" height="171.5492457852706" as="geometry" />
         </mxCell>
         <mxCell id="I-lLeRLzcVt5vBV5bbuP-184" style="vsdxID=272;rotation=-90;fillColor=light-dark(#ff2600, #43ba43);shape=stencil(lZPRcoMgEEW/hkeZZdERntPkP5gElamVDJrG/H2xUBQzk2ne2OWwFy67hB/GTl01QRgnZz/13VymjvAPgmiGTjsz+RXhR8IPjXW6dfY2XEJ8VQu5rL7s91JhDueAAi6HEB4hwQB+41OgzzcXcJZ4FvmYkZIyGVIzRigSMZSCchEJnhMxlDWt6peyuWYpqRS5JvPXYLkuA4os1y1LWuXSQKXcKit39rtuTlXrcDFw0SCskmURqqpUdFcT5kLNZiycndRk7JA9pleu1YXXK5petdnWeNf6ukmzV94IoELm/mxfjvm/Jne2HvI9899/WU+w57/G1CB/djzwuWf4SolcfdeKvRneaNz3aL9YJ6QxfR8GbLu/nyifCtPIjz8=);strokeColor=#005700;strokeWidth=0;spacingTop=-3;spacingBottom=-3;spacingLeft=-3;spacingRight=-3;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;fontColor=#ffffff;" vertex="1" parent="I-lLeRLzcVt5vBV5bbuP-193">
