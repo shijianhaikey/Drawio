@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="I-lLeRLzcVt5vBV5bbuP-38" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="I-lLeRLzcVt5vBV5bbuP-38" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="280" y="130" width="530" height="570" as="geometry" />
         </mxCell>
         <mxCell id="I-lLeRLzcVt5vBV5bbuP-101" value="" style="curved=1;endArrow=none;html=1;rounded=0;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=6;fillColor=#cdeb8b;strokeColor=light-dark(#0061ff, #babdc0);" edge="1" parent="1">
@@ -154,7 +154,7 @@
         <mxCell id="I-lLeRLzcVt5vBV5bbuP-138" value="&lt;i style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none;&quot;&gt;&lt;b&gt;SNV Trajectory&amp;nbsp;&lt;/b&gt;&lt;/i&gt;" style="text;whiteSpace=wrap;html=1;align=center;fontColor=default;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="399" y="190" width="155" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="I-lLeRLzcVt5vBV5bbuP-141" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="I-lLeRLzcVt5vBV5bbuP-141" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="810" y="130" width="530" height="570" as="geometry" />
         </mxCell>
         <mxCell id="I-lLeRLzcVt5vBV5bbuP-142" value="" style="curved=1;endArrow=none;html=1;rounded=0;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=6;fillColor=#cdeb8b;strokeColor=light-dark(#0061ff, #babdc0);" edge="1" parent="1">
@@ -334,7 +334,7 @@
         <mxCell id="I-lLeRLzcVt5vBV5bbuP-198" value="\(d_{mo}+b_{mo}\)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontStyle=1;rotation=0;" vertex="1" parent="I-lLeRLzcVt5vBV5bbuP-193">
           <mxGeometry x="12.200000000000045" y="-31.00200410862317" width="104" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="I-lLeRLzcVt5vBV5bbuP-211" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="I-lLeRLzcVt5vBV5bbuP-211" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="320" y="707" width="990" height="580" as="geometry" />
         </mxCell>
         <mxCell id="I-lLeRLzcVt5vBV5bbuP-212" value="" style="curved=1;endArrow=none;html=1;rounded=0;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=6;fillColor=#cdeb8b;strokeColor=light-dark(#0061ff, #babdc0);" edge="1" parent="1">
