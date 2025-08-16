@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15" version="26.2.12">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="26.2.15">
   <diagram name="页-1" id="KkJPjx12Ec7EY-ToU70F">
-    <mxGraphModel dx="1189" dy="1854" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+    <mxGraphModel dx="772" dy="1846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -229,13 +229,13 @@
             <mxGeometry x="758" y="-220" width="70" height="21" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="rbftyvLKrvMqdOADE280-104" value="&lt;span style=&quot;caret-color: rgb(237, 12, 12); color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-style: normal; font-variant-caps: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; float: none; display: inline !important;&quot;&gt;&lt;font&gt;\(P_F^i(t_p-T_s)\)&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=11;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="rbftyvLKrvMqdOADE280-104" value="&lt;span style=&quot;caret-color: rgb(237, 12, 12); color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-style: normal; font-variant-caps: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; float: none; display: inline !important;&quot;&gt;&lt;font&gt;\(P_0(t_p-T_s)\)&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=11;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="733.75" y="-480" width="73.25" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rbftyvLKrvMqdOADE280-106" value="&lt;span style=&quot;caret-color: rgb(237, 12, 12); color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-style: normal; font-variant-caps: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; float: none; display: inline !important;&quot;&gt;&lt;font&gt;\(P_F^i(t_p)\)&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=11;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="rbftyvLKrvMqdOADE280-106" value="&lt;span style=&quot;caret-color: rgb(237, 12, 12); color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-style: normal; font-variant-caps: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; float: none; display: inline !important;&quot;&gt;&lt;font&gt;\(P_0(t_p)\)&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=11;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="755.25" y="-415.5" width="50" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="rbftyvLKrvMqdOADE280-107" value="&lt;span style=&quot;caret-color: rgb(237, 12, 12); color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-style: normal; font-variant-caps: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; float: none; display: inline !important;&quot;&gt;&lt;font&gt;\(P_F^i(t_p+(N_c-1)T_s)\)&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=11;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="rbftyvLKrvMqdOADE280-107" value="&lt;span style=&quot;caret-color: rgb(237, 12, 12); color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-style: normal; font-variant-caps: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; float: none; display: inline !important;&quot;&gt;&lt;font&gt;\(P_0(t_p+(N_c-1)T_s)\)&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=11;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="696.37" y="-339.88" width="97.75" height="20.75" as="geometry" />
         </mxCell>
         <mxCell id="rbftyvLKrvMqdOADE280-111" value="&lt;span style=&quot;caret-color: rgb(237, 12, 12); color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-style: normal; font-variant-caps: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; float: none; display: inline !important;&quot;&gt;\(\eta_d^{k\ast}(t_p+(N_c-1)T_s)\)&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontStyle=1" parent="1" vertex="1">
@@ -353,7 +353,7 @@
           <mxGeometry x="4.91" y="3.78" width="3.46" height="2.28" as="geometry" />
         </mxCell>
         <UserObject label="" tags="连接线" id="A94Y-qHUEjYeLobveH9I-2">
-          <mxCell style="vsdxID=259;edgeStyle=none;startArrow=none;endArrow=block;startSize=5;endSize=5;strokeWidth=3;strokeColor=#0070c0;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#FFFFFF;rounded=1;curved=0;exitX=0.515;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="rbftyvLKrvMqdOADE280-290" source="rbftyvLKrvMqdOADE280-416">
+          <mxCell style="vsdxID=259;edgeStyle=none;startArrow=none;endArrow=block;startSize=5;endSize=5;strokeWidth=3;strokeColor=#0070c0;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#FFFFFF;rounded=1;curved=0;exitX=0.515;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="rbftyvLKrvMqdOADE280-290" source="rbftyvLKrvMqdOADE280-416" edge="1">
             <mxGeometry relative="1" as="geometry">
               <mxPoint y="-1" as="offset" />
               <Array as="points">
@@ -625,7 +625,7 @@
           <mxGeometry x="415.69" y="-199" width="23.13" height="16.75" as="geometry" />
         </mxCell>
         <UserObject label="" tags="连接线" id="A94Y-qHUEjYeLobveH9I-4">
-          <mxCell style="vsdxID=259;edgeStyle=none;startArrow=none;endArrow=block;startSize=5;endSize=5;strokeWidth=3;strokeColor=#0070c0;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#FFFFFF;rounded=1;curved=0;exitX=0.515;exitY=1.002;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.006;entryY=0.524;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rbftyvLKrvMqdOADE280-416" target="rbftyvLKrvMqdOADE280-10">
+          <mxCell style="vsdxID=259;edgeStyle=none;startArrow=none;endArrow=block;startSize=5;endSize=5;strokeWidth=3;strokeColor=#0070c0;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#FFFFFF;rounded=1;curved=0;exitX=0.515;exitY=1.002;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.006;entryY=0.524;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="rbftyvLKrvMqdOADE280-416" target="rbftyvLKrvMqdOADE280-10" edge="1">
             <mxGeometry relative="1" as="geometry">
               <mxPoint y="-1" as="offset" />
               <Array as="points">
@@ -637,7 +637,7 @@
           </mxCell>
         </UserObject>
         <UserObject label="" tags="连接线" id="A94Y-qHUEjYeLobveH9I-7">
-          <mxCell style="vsdxID=259;edgeStyle=none;startArrow=none;endArrow=none;startSize=5;endSize=5;strokeWidth=3;strokeColor=#0070c0;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#FFFFFF;rounded=1;entryX=-0.035;entryY=0.458;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;exitX=-0.007;exitY=0.432;exitDx=0;exitDy=0;exitPerimeter=0;startFill=0;" edge="1" parent="1" source="rbftyvLKrvMqdOADE280-15" target="rbftyvLKrvMqdOADE280-429">
+          <mxCell style="vsdxID=259;edgeStyle=none;startArrow=none;endArrow=none;startSize=5;endSize=5;strokeWidth=3;strokeColor=#0070c0;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#FFFFFF;rounded=1;entryX=-0.035;entryY=0.458;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;exitX=-0.007;exitY=0.432;exitDx=0;exitDy=0;exitPerimeter=0;startFill=0;" parent="1" source="rbftyvLKrvMqdOADE280-15" target="rbftyvLKrvMqdOADE280-429" edge="1">
             <mxGeometry relative="1" as="geometry">
               <mxPoint y="-1" as="offset" />
               <Array as="points">
@@ -649,7 +649,7 @@
           </mxCell>
         </UserObject>
         <UserObject label="" tags="连接线" id="A94Y-qHUEjYeLobveH9I-8">
-          <mxCell style="vsdxID=259;edgeStyle=none;startArrow=none;endArrow=none;startSize=5;endSize=5;strokeWidth=3;strokeColor=#0070c0;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#FFFFFF;rounded=1;curved=0;exitX=-0.009;exitY=0.46;exitDx=0;exitDy=0;exitPerimeter=0;startFill=0;entryX=-0.033;entryY=0.472;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rbftyvLKrvMqdOADE280-67" target="rbftyvLKrvMqdOADE280-429">
+          <mxCell style="vsdxID=259;edgeStyle=none;startArrow=none;endArrow=none;startSize=5;endSize=5;strokeWidth=3;strokeColor=#0070c0;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#FFFFFF;rounded=1;curved=0;exitX=-0.009;exitY=0.46;exitDx=0;exitDy=0;exitPerimeter=0;startFill=0;entryX=-0.033;entryY=0.472;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="rbftyvLKrvMqdOADE280-67" target="rbftyvLKrvMqdOADE280-429" edge="1">
             <mxGeometry relative="1" as="geometry">
               <mxPoint y="-1" as="offset" />
               <Array as="points">
@@ -661,7 +661,7 @@
           </mxCell>
         </UserObject>
         <UserObject label="" tags="连接线" id="A94Y-qHUEjYeLobveH9I-9">
-          <mxCell style="vsdxID=259;edgeStyle=none;startArrow=none;endArrow=blockThin;startSize=5;endSize=5;strokeWidth=3;strokeColor=#0070c0;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#FFFFFF;rounded=1;curved=0;exitX=0.002;exitY=0.489;exitDx=0;exitDy=0;exitPerimeter=0;startFill=0;entryX=0.011;entryY=0.461;entryDx=0;entryDy=0;entryPerimeter=0;endFill=1;" edge="1" parent="1" source="rbftyvLKrvMqdOADE280-10" target="rbftyvLKrvMqdOADE280-429">
+          <mxCell style="vsdxID=259;edgeStyle=none;startArrow=none;endArrow=blockThin;startSize=5;endSize=5;strokeWidth=3;strokeColor=#0070c0;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#FFFFFF;rounded=1;curved=0;exitX=0.002;exitY=0.489;exitDx=0;exitDy=0;exitPerimeter=0;startFill=0;entryX=0.011;entryY=0.461;entryDx=0;entryDy=0;entryPerimeter=0;endFill=1;" parent="1" source="rbftyvLKrvMqdOADE280-10" target="rbftyvLKrvMqdOADE280-429" edge="1">
             <mxGeometry relative="1" as="geometry">
               <mxPoint y="-1" as="offset" />
               <Array as="points">
