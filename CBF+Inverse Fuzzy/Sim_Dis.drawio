@@ -25,7 +25,7 @@
         <mxCell id="0Rk26llNKBnqZbQiv-X2-11" value="c).Relative safety distance \(D_{ij}\) variation between Follower USVs" style="text;whiteSpace=wrap;fontSize=26;fontFamily=Times New Roman;fontStyle=2;align=center;" vertex="1" parent="1">
           <mxGeometry x="-3995" y="1350" width="665" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="0Rk26llNKBnqZbQiv-X2-12" value="b).Relative safety distance \(D_{mo-\iota}^I\) variation between Follower USVs and moving obstacles mo-1 to mo-3" style="text;whiteSpace=wrap;fontSize=26;fontFamily=Times New Roman;fontStyle=2;align=center;" vertex="1" parent="1">
+        <mxCell id="0Rk26llNKBnqZbQiv-X2-12" value="d).Commanded and actual surge velocity, yaw rate and yaw angle using FTIO-FLC controller" style="text;whiteSpace=wrap;fontSize=26;fontFamily=Times New Roman;fontStyle=2;align=center;" vertex="1" parent="1">
           <mxGeometry x="-3330" y="1350" width="665" height="70" as="geometry" />
         </mxCell>
       </root>
